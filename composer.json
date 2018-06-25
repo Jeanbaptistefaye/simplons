@@ -1,0 +1,16 @@
+{
+    "name": "faye/fayemvc",
+    "description": "fayeMVC is a PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fayeframework",
+            "email": "jbfayes5@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+       "require": {
+           "smarty/smarty": "~3.1"
+    }
+}
